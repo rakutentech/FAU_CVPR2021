@@ -23,10 +23,9 @@ First, clone the repository locally:
 ```
 git clone https://github.com/RIT/FAU_transformers.git
 ```
-Then, install tensorflow-gpu and the packages in requirements file:
+Then, install the packages in requirements file:
  
 ```
-conda install tensorflow-gpu==1.10.0
 pip install -r requirements.txt
 ```
  
