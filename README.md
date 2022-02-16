@@ -31,7 +31,10 @@ pip install -r requirements.txt
  
 ## Data preparation
  
- 
+ ```
+python Prepare_data.py
+```
+
 ## Train models
  
 ```
