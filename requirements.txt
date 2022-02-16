@@ -1,0 +1,14 @@
+tensorflow-gpu==1.15.0
+imutils
+opencv-python
+h5py==2.10.0
+Keras==2.2.4
+keras-pos-embd
+keras-multi-head
+keras-layer-normalization
+keras-position-wise-feed-forward
+keras-embed-sim
+pandas
+scikit-learn
+
+
