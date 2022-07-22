@@ -17,7 +17,14 @@ If you use this code for a paper please cite:
 }
 ```
  
-## Demo [Google Colab](https://openaccess.thecvf.com/content/CVPR2021/papers/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.pdf)
+## Inference
+
+Download pretrained models from this [link]
+
+```
+python inference.py
+```
+
 # Usage
  
 First, clone the repository locally:
