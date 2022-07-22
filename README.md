@@ -4,7 +4,7 @@ This repository contains Tensorflow training code for the CVPR 2021 paper:
 * Facial Action Unit Detection with Transformers
  
  
-For details see [Facial Action Unit Detection with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.pdf) by Geethu Miriam Jacob and
+For details see [Facial Action Unit Detection with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.pdf) by Geethu Miriam Jacob, Bjorn Stenger 
 If you use this code for a paper please cite:
  
 ```
