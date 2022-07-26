@@ -18,8 +18,13 @@ If you use this code for a paper please cite:
 ```
  
 ## Inference
+Download pretrained models (BP4D dataset) from the following links:
 
-Download pretrained models from this [link](https://drive.google.com/drive/folders/1aSBAgiKdQA-l_8GYgxW9y0UyrJBfru0B?usp=sharing)
+Pre-trained model [fold1](https://drive.google.com/file/d/1Wk9e78TVXMF0aQ4b4c0SovIJoJOMgHL5/view?usp=sharing)
+
+Pre-trained model [fold2](https://drive.google.com/file/d/1Wk9e78TVXMF0aQ4b4c0SovIJoJOMgHL5/view?usp=sharing)
+
+Pre-trained model [fold3](https://drive.google.com/file/d/1p7hlZ3sxhbKoZjcACPVTeago1CESLZQ_/view?usp=sharing)
 
 ```
 python inference.py
