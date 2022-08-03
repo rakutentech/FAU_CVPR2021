@@ -22,7 +22,7 @@ Download pretrained models (BP4D dataset) from the following links:
 
 Pre-trained model [fold1](https://drive.google.com/file/d/1Wk9e78TVXMF0aQ4b4c0SovIJoJOMgHL5/view?usp=sharing)
 
-Pre-trained model [fold2](https://drive.google.com/file/d/1Wk9e78TVXMF0aQ4b4c0SovIJoJOMgHL5/view?usp=sharing)
+Pre-trained model [fold2](https://drive.google.com/file/d/1-uwkTp0WS-C-yRFBrm9sPl9WROAWaGUv/view?usp=sharing)
 
 Pre-trained model [fold3](https://drive.google.com/file/d/1p7hlZ3sxhbKoZjcACPVTeago1CESLZQ_/view?usp=sharing)
 
